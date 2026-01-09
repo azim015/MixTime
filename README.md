@@ -5,6 +5,7 @@
 </h2>
 
 **TimeFuse is an ensemble time series forecasting framework that adaptively fuses multiple models at the sample level to exploit their complementary strengths.**
+
 We extract the meta-features of the input time series and use them to learn a fusion model that dynamically combines the predictions of a diverse set of base models.
 The framework is model-aganostic, allowing for the integration of various forecasting models, including deep learning and traditional statistical methods.
 
